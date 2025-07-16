@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+
+# JetBrains IDE settings
+.idea/
+
+# Python cache
+__pycache__/
+
+# OS generated files
+.DS_Store
